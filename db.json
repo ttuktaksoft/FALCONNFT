@@ -11,7 +11,24 @@
       "description": "My NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://i.ibb.co/g7DyG8f/image.jpg",
-      "name": "My NFT 115"
+      "name": "FALCON2",
+        "attributes": [{
+          "trait_type": "Base",
+          "value": "FALCON"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "SHARP"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "YELLOW"
+        },
+        {
+          "trait_type": "Personality",
+          "value": "HAPPY"
+        }
+      ]
     },
     {
       "id": 2,
@@ -21,23 +38,19 @@
       "name": "FALCON",
       "attributes": [{
           "trait_type": "Base",
-          "value": "Starfish"
+          "value": "FALCON"
         },
         {
           "trait_type": "Eyes",
-          "value": "Big"
+          "value": "SHARP"
         },
         {
           "trait_type": "Mouth",
-          "value": "Surprised"
-        },
-        {
-          "trait_type": "Stamina",
-          "value": 1.4
+          "value": "YELLOW"
         },
         {
           "trait_type": "Personality",
-          "value": "Sad"
+          "value": "HAPPY"
         }
       ]
     }
